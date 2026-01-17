@@ -101,7 +101,7 @@ The tool supports reconnaissance on:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/OSINTBABY.git
+git clone https://github.com/anandthosar03-hub/OSINTBABY.git
 cd OSINTBABY
 ````
 
@@ -141,6 +141,7 @@ pip install -r requirements.txt
 ## 🟢 Step 1: Open Terminal & Go to Project Folder
 
 ```bash
+git clone https://github.com/anandthosar03-hub/OSINTBABY.git
 cd OSINTBABY
 ```
 
@@ -289,16 +290,6 @@ The developers are not responsible for misuse of this tool.
 Always follow local laws and ethical guidelines when performing OSINT.
 
 ---
-
-## 📌 Future Enhancements
-
-* Shodan (free tier) integration
-* VirusTotal public API
-* JSON / CSV report export
-* Async scanning
-* Neo4j OSINT graphing
-* AI-based risk scoring
-
 ---
 
 ## ⭐ Credits

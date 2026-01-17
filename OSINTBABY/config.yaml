@@ -1,0 +1,17 @@
+# OSINT CLI Configuration
+api_keys:
+  shodan: ""  # Free API key from shodan.io
+  virustotal: ""  # Free API key from virustotal.com
+  hunter: ""  # Free API key from hunter.io
+  securitytrails: ""  # Free API key
+
+settings:
+  timeout: 30
+  max_retries: 3
+  user_agent: "OSINT-CLI/1.0"
+  output_format: "table"  # table, json, csv
+
+rate_limits:
+  default_delay: 1  # seconds between requests
+  shodan_delay: 2
+  virustotal_delay: 15
